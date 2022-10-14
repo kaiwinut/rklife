@@ -1,6 +1,5 @@
 import os
 from datetime import date, datetime
-from re import TEMPLATE
 from jinja2 import Environment, PackageLoader
 from markdown2 import markdown
 from config import *
